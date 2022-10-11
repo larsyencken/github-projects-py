@@ -4,5 +4,5 @@ d = { 'settings': { 'branch': 'main',
                 'doc_baseurl': '/github-projects-py',
                 'doc_host': 'https://larsyencken.github.io',
                 'git_url': 'https://github.com/larsyencken/github-projects-py',
-                'lib_path': 'github_projects_py'},
-  'syms': {'github_projects_py.core': {'github_projects_py.core.foo': ('core.html#foo', 'github_projects_py/core.py')}}}
+                'lib_path': 'ghprojects'},
+  'syms': {'ghprojects.core': {'ghprojects.core.foo': ('core.html#foo', 'ghprojects/core.py')}}}
