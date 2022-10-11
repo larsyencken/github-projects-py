@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "github-projects-py"
+  site-url: "https://larsyencken.github.io/github-projects-py"
+  description: "A high level API for writing Github project automations."
+  repo-branch: main
+  repo-url: "https://github.com/larsyencken/github-projects-py"
